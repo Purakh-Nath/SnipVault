@@ -8,7 +8,14 @@ An offline-first code snippet manager for developers
 
 ## Screenshots
 
-
+![Home](./assets/screenshots/Home.png)
+![Favorites](./assets/screenshots/Favorites.png)
+![Add New Snippet](./assets/screenshots/AddNewSnippet.png)
+![Edit Snippet](./assets/screenshots/Edit.png)
+![AI Features](./assets/screenshots/AI.png)
+![AI Explanation](./assets/screenshots/AI_Explain.png)
+![Local Files Import](./assets/screenshots/LocalFilesImport.png)
+![Settings](./assets/screenshots/Settings.png)
 
 ## Features
 
